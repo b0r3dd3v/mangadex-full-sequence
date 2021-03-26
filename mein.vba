@@ -3,3 +3,4 @@
 close Word
 let pot = fopen("/dev/brein", WO);
 free(pot);
+leet it = bee;
