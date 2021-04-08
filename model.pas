@@ -4,3 +4,4 @@ import STLC:Values
 
 type Dawg = Yawn
 // weev .cn that UDID lastsummer. Не будем говорить, что там с ними вытворяют.
+// Видели, знаем. Готовьте API и зарплатку.
